@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="296" viewBox="0 0 296 296" fill="none">
+  <!-- 薄荷绿圆角底 -->
+  <rect width="296" height="296" rx="66" fill="#4FBF97"/>
+  <!-- 标志图形（白色） -->
+  <g transform="translate(44,44) scale(0.8667)">
+    <!-- 热气 -->
+    <path d="M86 30C78 40 92 48 86 58" stroke="#EAF7F0" stroke-width="11" stroke-linecap="round"/>
+    <path d="M120 16C112 27 128 36 120 48" stroke="#EAF7F0" stroke-width="12" stroke-linecap="round"/>
+    <path d="M154 30C146 40 160 48 154 58" stroke="#EAF7F0" stroke-width="11" stroke-linecap="round"/>
+    <!-- 米堆 -->
+    <path d="M50 124C46 100 62 82 82 90C90 66 118 62 128 84C146 62 172 68 176 92C192 88 200 104 194 124Z" fill="#FFFDF8"/>
+    <!-- 碗沿 -->
+    <rect x="36" y="110" width="168" height="20" rx="10" fill="#EAF7F0"/>
+    <!-- 碗身 -->
+    <path d="M42 130C46 186 86 208 120 208C154 208 194 186 198 130Z" fill="#FFFDF8"/>
+    <!-- 眼睛 -->
+    <circle cx="92" cy="158" r="7" fill="#4FBF97"/>
+    <circle cx="148" cy="158" r="7" fill="#4FBF97"/>
+    <!-- 微笑 -->
+    <path d="M108 170q12 10 24 0" stroke="#4FBF97" stroke-width="6" stroke-linecap="round"/>
+    <!-- 腮红 -->
+    <ellipse cx="74" cy="168" rx="9" ry="6" fill="#FFB3A7"/>
+    <ellipse cx="166" cy="168" rx="9" ry="6" fill="#FFB3A7"/>
+    <!-- 碗足 -->
+    <rect x="100" y="206" width="40" height="13" rx="6.5" fill="#EAF7F0"/>
+  </g>
+</svg>
